@@ -1,4 +1,3 @@
-<<<<<<<< HEAD:uy/RUN.bat
 ```batch
 @echo off
 title ytdlpcli
