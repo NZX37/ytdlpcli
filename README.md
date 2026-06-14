@@ -7,5 +7,6 @@ in fact i recommend checking out their repo https://github.com/yt-dlp/yt-dlp
 2. Options to download Video and audio or Audio only using ffmpeg(also included within RUN file)
 
 #Instructions:
-1. Download RUN file
-3. Run COMM.bat
+1. Download full repo
+2. Unzip .zip file
+3. Run the shortcut labelled "ytdlp-cli"
