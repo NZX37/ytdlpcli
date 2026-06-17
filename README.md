@@ -11,3 +11,4 @@ in fact i recommend checking out their repo https://github.com/yt-dlp/yt-dlp
 2. Unzip .zip file
 3. Enter "src" folder
 4. run RUN.bat
+5. (optional) create a shortcut to RUN.bat for easy access.
