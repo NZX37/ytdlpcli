@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 ```batch
 @echo off
 title ytdlpcli
